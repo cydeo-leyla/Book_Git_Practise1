@@ -1,0 +1,6 @@
+Write something
+
+today my first git
+
+
+I am trying to do what I learn
