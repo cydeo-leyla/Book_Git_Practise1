@@ -5,6 +5,7 @@ public class HelloWorld {
         System.out.println("Hello World");
 
         // extra work here
+        System.out.println("Java is the best");
 
     }
 }
